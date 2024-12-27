@@ -1,4 +1,4 @@
-!(Jacqui Banner)[https://github.com/tradesouthwest/jacqui/library/banner-1544x500-jacqui-theme.png]
+![Jacqui Banner](https://github.com/tradesouthwest/jacqui/library/banner-1544x500-jacqui-theme.png)
 
 #  Jacqui Theme for ClassicPress
 
