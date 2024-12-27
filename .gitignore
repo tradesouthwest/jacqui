@@ -1,0 +1,4 @@
+---
+# .gitignore
+# Ignore class-tgm-plugin-activation.php file within the library folder
+library/class-tgm-plugin-activation.php
