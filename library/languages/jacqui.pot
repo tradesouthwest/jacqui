@@ -1,0 +1,241 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. Text in function
+#: search.php:14
+msgid " search results for"
+msgstr ""
+
+#. Text in function
+#: functions.php:464
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: content-single.php:16
+msgid "%title &rarr;"
+msgstr ""
+
+#. Text in function
+#: content-single.php:15
+msgid "&larr; %title"
+msgstr ""
+
+#. Text in function
+#: comments.php:39
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: content-single.php:12
+msgid "&larr; Previous Image"
+msgstr ""
+
+#. Text in function
+#: functions.php:464
+#: functions.php:488
+#: content-footer.php:9
+msgid "(edit)"
+msgstr ""
+
+#. Text in echo
+#: 404.php:8
+msgid "404 Error"
+msgstr ""
+
+#. Text in function
+#: archive.php:13
+msgid "Author Archive for %s"
+msgstr ""
+
+#. Text in echo
+#: archive.php:23
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in echo
+#: comments.php:38
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in echo
+#: comments.php:50
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: archive.php:17
+msgid "Daily Archives: %s"
+msgstr ""
+
+#. Text in function
+#: functions.php:270
+msgid "First Sidebar"
+msgstr ""
+
+#. Text in function
+#: functions.php:270
+msgid "Header Area"
+msgstr ""
+
+#. Text in function
+#: functions.php:270
+msgid "Home Page Top Area"
+msgstr ""
+
+#. Text in echo
+#: content-link.php:10
+msgid "Link"
+msgstr ""
+
+#. Text in echo
+#: header.php:49
+msgid "Main menu"
+msgstr ""
+
+#. Text in echo
+#: sidebar.php:17
+msgid "Meta"
+msgstr ""
+
+#. Text in function
+#: archive.php:19
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: comments.php:40
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: single.php:13
+msgid "Next Image &rarr;"
+msgstr ""
+
+#. Text in echo
+#: index.php:19
+msgid "No posts to display"
+msgstr ""
+
+#. text
+#: content-none.php:12
+msgid "No results were found. Please try again."
+msgstr ""
+
+#. Text in echo
+#: content-none.php:9
+msgid "Nothing found"
+msgstr ""
+
+#. Text in function
+#: functions.php:270
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#. Text in function
+#: functions.php:270
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: content-footer.php:9
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: content-gallery.php:36
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: functions.php:488
+msgid "Pingback:"
+msgstr ""
+
+#. Text in echo
+#: single.php:10
+msgid "Post navigation"
+msgstr ""
+
+#. Text in function
+#: content-status.php:18
+msgid "Posted on %1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: content-header.php:22
+msgid "Posts by %s"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in function
+#: page.php:24
+#: content-link.php:13
+#: content.php:7
+#: content-status.php:21
+#: content-quote.php:12
+#: content-image.php:13
+#: content-aside.php:13
+msgid "Read more &rarr;"
+msgstr ""
+
+#. Text in echo
+#: header.php:50
+msgid "Skip to content"
+msgstr ""
+
+#. Text in echo
+#: 404.php:11
+msgid "Your page is not found. Try a global search."
+msgstr ""
+
+#. Text in function
+#: archive.php:15
+msgid "Tag Archive for %s"
+msgstr ""
+
+#. Text in function
+#: content-footer.php:9
+msgid "Tags:"
+msgstr ""
+
+#. Text in function
+#:functions.php:242
+msgid "This is the sidebar widgetized area. Left or Right."
+msgstr ""
+
+#. Text in echo
+#: comments.php:3
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: functions.php:252
+msgid "Widgetized area in the header to the right of the site name."
+msgstr ""
+
+#. Text in function
+#: functions.php:262
+msgid "Widgetized area spans across top of footer."
+msgstr ""
+
+#. Text in function
+#: archive.php:21
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#. Text in function
+#: functions.php:470
+msgid "Your comment is awaiting moderation."
+msgstr ""
