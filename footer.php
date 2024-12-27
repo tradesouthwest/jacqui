@@ -15,7 +15,7 @@ get_sidebar();
 $jacqui_theme_options = jacqui_theme_options();
 $width_class = isset($jacqui_theme_options['width']) ? esc_attr($jacqui_theme_options['width']) : '';
 ?>
-<div class="grid <?php echo $width_class; ?>">
+<div class="grid <?php echo esc_attr( $width_class ); ?>">
     <div class="row">
         <nav id="site-navigation" class="c12" role="navigation">
             <?php
