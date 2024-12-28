@@ -75,7 +75,7 @@ class Jacqui_Customizer {
                 'sanitize_callback' => 'jacqui_sanitize_html',
                 'capability' => 'edit_theme_options',
             ) );
-/* Removed for mobile incompatibility reasons 
+
             $wp_customize->add_control( 'jacqui_primary_column', array(
                 'label'      => __( 'Main Content', 'jacqui' ),
                 'section'    => 'jacqui_layout',
@@ -96,7 +96,7 @@ class Jacqui_Customizer {
                     'c12' => __( '12 Columns', 'jacqui' ),
                 ),
             ) );
-*/
+
 		// Color options
                 $wp_customize->add_setting( 'jacqui_theme_options[link_color]', array(
 			'default'           => $jacqui_theme_options['link_color'],
@@ -116,7 +116,7 @@ $jacqui_customizer = new Jacqui_Customizer;
 
 function sanitize_jacqui_layout( $input, $setting ) 
 {
-/* 
+
 $jacqui_theme_options = get_theme_mod( 'jacqui_theme_options' );
 
     if ( $jacqui_theme_options['layout'] ==  1 || 2 || 3 || 4 || 5 ) {
@@ -124,7 +124,7 @@ $jacqui_theme_options = get_theme_mod( 'jacqui_theme_options' );
     } else {
         return $setting->default;
     }
-} */
+} 
 function jacqui_sanitize_html( $input ) 
 {
     return wp_kses_post( force_balance_tags( $input ) );
