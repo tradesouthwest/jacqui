@@ -4,7 +4,7 @@ Theme Name:   Jacqui
 
 Author:       Sunland - Tradesouthwest
 
-Contributors: Elisbetta Carrara
+Contributors: Elisbetta Carrara, Tradesouthwest
 
 Requires PHP: 7.2
 
@@ -12,7 +12,7 @@ Requires CP:  1.4
 
 Tested up to: 2.3
 
-Version:      2.0.1
+Version:      2.0.0
 
 Text domain:  jacqui
 
